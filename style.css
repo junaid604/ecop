@@ -1,0 +1,78 @@
+*{
+   overflow-x: hidden;
+    margin: 0%;
+    padding: 0%;
+  }
+    .list-group li a {
+        text-decoration: none;
+        color: black;
+    }
+    img:hover{
+        cursor:zoom-in;
+        background: rgb(255, 115, 0);
+          }
+    .list-group li a:hover{
+        color: red;
+    }
+    .list-group li{
+        list-style: none;
+    }
+    .topbar li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px;
+        color:white;
+        font-weight: bold;
+        font-size: small;
+    }
+    .btn-group{
+        display: inline-block;
+    }
+    .btn-1{
+        background-color: white;
+        margin-right: 20px;
+        border-radius: 5px;
+        
+    }
+    .nav-btn{
+        background-color: white;
+    }
+    .navigation{
+        background-color: white;
+    }
+    .ofr-link a{
+        
+        color: red;
+
+    }
+    .nav-icon a{
+        text-decoration: none;
+        color: black;
+    }
+    .menu-btn{
+        list-style-type: none;
+    }
+    .menu-btn li button{
+        width: 12rem;
+        margin: .5rem;
+       
+    }
+    h5{
+      overflow: hidden;
+    }
+    h2 .best-selling{
+      overflow-y: hidden;
+    }
+    .best-selling label h2{
+      overflow: hidden;
+    }
+    .news-class h3{
+      overflow-y: hidden;
+    }
+    .ftr-links h4{
+      overflow-y: hidden;
+    }
+   #mlt-btn .one :hover{
+       color: red;
+       background-color: red;
+   }
